@@ -115,19 +115,19 @@ nav a:hover {
 
 #portfolio {
     text-align: center;
-    height: 850px;
-    padding: 170px 0 170px 0;
+    height: 700px;
+    padding-top: 170px;
 }
 
 /***** CONTACT *****/
 
 #contact {
     float: left;
-    margin-top: 170px;
     background-color: #000980;
     color: white;
     height: 600px;
     width: 100%;
+    text-align: center;
 }
 
 #contact h2 {
