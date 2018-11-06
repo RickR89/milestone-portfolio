@@ -102,7 +102,6 @@ nav a:hover {
     background-color: #000980;
     color: white;
     text-align: center;
-    width: 100%;
     height: 1000px;
     padding: 170px 0 170px 0;
 }
@@ -119,6 +118,10 @@ nav a:hover {
     padding-top: 170px;
 }
 
+#portfolio img{
+    border: 1px solid #b7b7b7;
+}
+
 /***** CONTACT *****/
 
 #contact {
@@ -126,8 +129,8 @@ nav a:hover {
     background-color: #000980;
     color: white;
     height: 600px;
-    width: 100%;
     text-align: center;
+    width: 100%;
 }
 
 #contact h2 {
